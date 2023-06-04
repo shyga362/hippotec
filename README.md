@@ -7,6 +7,8 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/dieguesmosken/hippotec-1)
 ![GitHub contributors](https://img.shields.io/github/contributors/dieguesmosken/hippotec-1)
 ![GitHub top language](https://img.shields.io/github/languages/top/dieguesmosken/hippotec-1)
+![Pull Requests](https://img.shields.io/github/issues-pr/dieguesmosken/hippotec-1)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/dieguesmosken/hippotec-1)
 ![GitHub repo size](https://img.shields.io/github/repo-size/dieguesmosken/hippotec-1)
 ![GitHub All Releases](https://img.shields.io/github/downloads/dieguesmosken/hippotec-1/total)
 ![GitHub language count](https://img.shields.io/github/languages/count/dieguesmosken/hippotec-1)
